@@ -68,7 +68,7 @@
 
 
 ## My Favorite Repo
-[![Dinosource](https://github-readme-stats.vercel.app/api/pin/?username=dimaspamungkasmursidi&repo=dinosource&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dimaspamungkasmursidi/dinosource.git)
+[![Dinosource](https://github-readme-stats.vercel.app/api/pin/?username=dimaspamungkasmursidi&repo=dinosource&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://github.com/dimaspamungkasmursidi/dinosource.git)
 
 
 <!--horizontal divider(gradiant)-->
