@@ -3,7 +3,9 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Dimas Pamungkas Mursidi</a></b>
+                <b>Dimas Pamungkas Mursidi</b>
+<!-- 		Sebelumya
+                <b><a target="_blank" href="https://alsiam.com">Dimas Pamungkas Mursidi</a></b> -->
         </samp>
 </h1>
 
