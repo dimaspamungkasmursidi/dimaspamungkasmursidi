@@ -68,7 +68,7 @@
 
 
 ## My Favorite Repo
-[![Dinosource](https://github-readme-stats.vercel.app/api/pin/?username=dimaspamungkasmursidi&repo=ITIsFun&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://github.com/dimaspamungkasmursidi/dinosource.git)
+[![Dinosource](https://github-readme-stats.vercel.app/api/pin/?username=dimaspamungkasmursidi&repo=ITIsFun&border_color=2A52BE&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2A52BE)](https://github.com/dimaspamungkasmursidi/ITIsFun.git)
 
 
 <!--horizontal divider(gradiant)-->
