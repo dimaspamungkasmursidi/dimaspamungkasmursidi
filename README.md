@@ -19,11 +19,11 @@
 
 - 👀 I’m interested in web developer especially Front-End Web Dev
 
-- 🖥️ My portfolio Website at <a href="https://dimaspamungkasportofolio.vercel.app/" target="blank">Here</a>
+- 🖥️ My portfolio Website at <a href="https://linktr.ee/dimaspamungkasmursidi" target="blank">Here</a>
 
 - 🤝 I’m available for freelancing
 
-- 💼 I’m currently open for an Intern or a new job  as Frontend Web Dev
+- 💼 I’m currently open for an Intern or a new job as Frontend Web Developer
 
 - 📄 this is <a href="https://drive.google.com/file/d/1PEtPgnN50S2R_IhQoI3YrnBOCnPKC0BA/view?usp=sharing" target="blank">My Resume</a>
 
