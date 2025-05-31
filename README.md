@@ -25,7 +25,7 @@
 
 - 💼 I’m currently open for an Intern or a new job as Frontend Web Developer
 
-- 📄 this is <a href="https://drive.google.com/file/d/1PEtPgnN50S2R_IhQoI3YrnBOCnPKC0BA/view?usp=sharing" target="blank">My Resume</a>
+- 📄 this is <a href="https://drive.google.com/file/d/13qGAi7bNjlAfQXl6C3DuwfaX1HUd2j9H/view?usp=drive_link" target="blank">My Resume</a>
 
 - 📫 Feel free to reach me out **dimaspamungkas.m19@gmail.com**
 
